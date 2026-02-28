@@ -1,5 +1,3 @@
-# Frontend Technical Assessment Documentation
-
 ## Overview
 This project is a small visual pipeline builder with a React frontend and a FastAPI backend.
 
